@@ -138,7 +138,7 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
 
-############################################------------------------------------TV Berita---------------------------------------------########################
+################----- TV Berita -----###############
 
 #EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://iili.io/JV3xZtS.png" group-title="NATIONAL NEWS",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -170,7 +170,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 #EXTINF:-1 group-title="🇮🇩 Nasional Lokal MK" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
 https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
-########################## NEWS ##########################
+##########################TV Berita##########################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -318,6 +318,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
+
+
+
 
 
 
@@ -8712,6 +8715,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c1da94caeb94dab9a3009167f6158ee:a1a7260d953b2526973c8de5d16f8e33
 https://atemeshield1-voe.sysln.id/live/eds/BalaiKota/mpd/BalaiKota.mpd
+
 
 
 
