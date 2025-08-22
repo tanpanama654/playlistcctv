@@ -1258,6 +1258,116 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 
 
+//Collected menampilkan playlist >>> TV Vidio
+                          //========================================================================
+
+                          #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sctv.png" group-title="VIDIO",SCTV
+                          #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+                          https://popmi.my.id/tes.m3u8?id=204
+
+                          #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/indosiar.png" group-title="VIDIO",INDOSIAR
+                          #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+                          https://popmi.my.id/tes.m3u8?id=205
+
+                          #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/moji.png" group-title="VIDIO",MOJI
+                          #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+                          https://popmi.my.id/tes.m3u8?id=206
+
+                          #EXTINF:-1 tvg-id="SinpoTV.id" group-title="VIDIO" tvg-logo="http://adp-premium.my.id/logo/Simpotv.jpg", SINPO TV
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=19046
+
+                          #EXTINF:-1 group-title="VIDIO" tvg-id="Musica.id" tvg-logo="https://raw.githubusercontent.com/Tonisupendi/Logo/refs/heads/main/20250817_122807.png",MUSICA
+                          #EXTVLCOPT:http-referrer=https://m.vidio.com/
+                          #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=7619
+
+                          #EXTINF:-1 tvg-id="MDTV.id" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/mdtv.png",MDTV
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=875
+
+                          #EXTINF:-1 tvg-id="AjwaTV.id" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/Tonisupendi/Logo/refs/heads/main/20250817_122906.png",AJWA TV
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=7464
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trans7.png",TRANS 7
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=734
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/transtv.png",TRANS TV
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=733
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/tvone.png",TVONE
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=783
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/kompastv.png",KOMPAS TV
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=874
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/antv.png",ANTV
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=782
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/Tonisupendi/Logo/refs/heads/main/20250817_122953.png",BERITASATU
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=18280
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/metrotv.png",METRO TV
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=777
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="http://adp-premium.my.id/logo/garuda.jpg",GARUDA TV
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=18162
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/rtv.png",RTV
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=1561
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="http://adp-premium.my.id/logo/tvri.jpg",TVRI
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=6441
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/btv.png",BTV
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=6165
+
+                          #EXTINF:-1 tvg-id="" group-title="VIDIO" tvg-logo="https://raw.githubusercontent.com/Tonisupendi/Logo/refs/heads/main/20250817_123030.png",ELSHINTA
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=10975
+
+                          #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/rockent.png" group-title="VIDIO",ROCK ENTERTAINMENT
+                          #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+                          #KODIPROP:inputstream.adaptive.manifest_type=dash
+                          #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+                          #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8120&type=drm
+                          https://halu.serv00.net/satu.mpd?id=8120
+
+
+
+                          #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/rockact.png" group-title="VIDIO",ROCK ACTION
+                          #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+                          #KODIPROP:inputstream.adaptive.manifest_type=dash
+                          #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+                          #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=8121&type=drm
+                          https://halu.serv00.net/satu.mpd?id=8121
+
+                          #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tonisupendi/Logo/refs/heads/main/20250817_123104.png" group-title="VIDIO",TVN
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=6362
+
+                          #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tonisupendi/Logo/refs/heads/main/20250817_123146.png" group-title="VIDIO",TV5 MONDE
+                          #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+                          #KODIPROP:inputstream.adaptive.manifest_type=dash
+                          #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+                          #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17278&type=drm
+                          https://halu.serv00.net/satu.mpd?id=17278
+
+                          #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tonisupendi/Logo/refs/heads/main/20250817_123213.png" group-title="VIDIO",ARIRANG
+                          #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+                          https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=6784
 
 
 
